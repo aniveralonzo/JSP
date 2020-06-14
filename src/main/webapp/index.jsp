@@ -20,7 +20,7 @@
             <label>ingrese nombre</label>
             <textarea name="nombre" placehold  ="ingrese su nombre"> </textarea>
             <br/>            
-            <label>ingrese apellido</label>
+            <label>ingrese apellido 222</label>
             <textarea name="apellido" placehold  ="ingrese el apellido"> </textarea>
             <input type="submit" value="enviar"/>
         </form>
