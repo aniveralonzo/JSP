@@ -13,7 +13,9 @@
         <title>servlet1jsp</title>
     </head>
     <body>
-        <h1>Bienvenido a nuestro sitio Web</h1>        
+        
+        
+        <h1>Bienvenido a nuestro sitio Web  web</h1>        
         <h1></h1>
         <h3>fecha/hora cst actual : <%= new Date()%></h3>
         <form method="post" action="aniverjsp">
